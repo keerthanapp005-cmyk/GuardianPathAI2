@@ -1,2 +1,2 @@
-# GuardianPathAI2
+# GuardianPath
 Navigation for visually impaired individuals
